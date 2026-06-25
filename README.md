@@ -17,10 +17,11 @@ El proyecto está desglosado en 6 bloques prácticos (`ej1.py` al `ej6.py`) que 
 
 ## Cómo ejecutar los scripts
 
-Para clonar este repositorio de forma local y ejecutar los ejercicios, abre tu terminal y lanza los siguientes comandos:
+Para clonar este repositorio de forma local y ejecutar los ejercicios, abre tu terminal y lanza los siguientes comandos en orden:
 
+```bash
 # 1. Clonar el repositorio
-git clone https://github.com/adina-popa/proyecto-final-python.git
+git clone [https://github.com/adina-popa/proyecto-final-python.git](https://github.com/adina-popa/proyecto-final-python.git)
 
 # 2. Entrar en la carpeta del repositorio
 cd proyecto-final-python
