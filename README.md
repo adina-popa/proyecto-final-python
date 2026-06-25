@@ -4,18 +4,18 @@ Bloque de ejercicios prácticos en Python enfocados en lógica algorítmica, est
 
 El proyecto está desglosado en 6 bloques prácticos (`ej1.py` al `ej6.py`) que abordan los siguientes aspectos esenciales del desarrollo:
 
-*   **`ej1.py` - Estructuras de control y flujo:** Implementación de la lógica inicial y control de flujo mediante condicionales y bucles.
-*   **`ej2.py` - Estructuras de datos:** Manipulación, almacenamiento y organización de datos en colecciones.
-*   **`ej3.py` - Funciones y modularidad:** Creación de lógica reutilizable mediante funciones estructuradas.
-*   **`ej4.py` - Procesamiento y filtrado:** Limpieza de datos básicos y preparación de variables lógicas.
-*   **`ej5.py` - Automatización de tareas:** Desarrollo de pequeños scripts orientados a resolver problemas secuenciales automáticamente.
-*   **`ej6.py` - Integración y análisis:** Script final que unifica las competencias de programación necesarias para afrontar los siguientes módulos de Inteligencia Artificial.
+* **`ej1.py` - Validación de datos y Algoritmia:** Solicitud y validación estricta de tipos de datos en bucle (`try-except`, enteros positivos) e implementación de un algoritmo de verificación de números primos.
+* **`ej2.py` - Procesamiento de Datos Estructurados:** Manipulación de colecciones complejas (diccionarios y listas) para realizar cálculos estadísticos, promedios de calificaciones y filtrado de condiciones lógicas.
+* **`ej3.py` - Simulación de Lógica Dinámica:** Uso del módulo `random` para simular entornos de juego basados en probabilidades, control de estructuras condicionales anidadas y gestión de estados/marcadores.
+* **`ej4.py` - Programación Orientada a Objetos (POO):** Modelado de clases (`Persona` e `Italiano`), aplicación práctica de conceptos de herencia, encapsulamiento y sobreescritura de métodos constructores y funciones.
+* **`ej5.py` - Control de Flujo y Estructuras Inmutables:** Uso de generadores aleatorios integrados en tuplas, diseño de funciones de validación repetitiva y cálculo dinámico de variables cuantitativas (premios basados en repeticiones).
+* **`ej6.py` - Gestión de Estructuras de Almacenamiento (CRUD básico):** Diseño de una agenda de contactos mediante diccionarios, implementando restricciones de unicidad de claves, flujos de interacción con el usuario y persistencia en memoria.
 
-## 🛠️ Herramientas
+## Herramientas
 * **Lenguaje:** Python 3.x
 * **Entorno:** Scripts ejecutables en consola nativa.
 
-## 🚀 Cómo ejecutar los scripts
+## Cómo ejecutar los scripts
 Para clonar de forma local y ejecutar el entorno:
 ```bash
 git clone [https://github.com/adina-popa/proyecto-final-python.git](https://github.com/adina-popa/proyecto-final-python.git)
