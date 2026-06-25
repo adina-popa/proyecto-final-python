@@ -16,8 +16,15 @@ El proyecto está desglosado en 6 bloques prácticos (`ej1.py` al `ej6.py`) que 
 * **Entorno:** Scripts ejecutables en consola nativa.
 
 ## Cómo ejecutar los scripts
-Para clonar de forma local y ejecutar el entorno:
+
+Para clonar este repositorio de forma local y ejecutar los ejercicios, abre tu terminal y lanza los siguientes comandos:
+
 ```bash
+# 1. Clonar el repositorio
 git clone [https://github.com/adina-popa/proyecto-final-python.git](https://github.com/adina-popa/proyecto-final-python.git)
+
+# 2. Entrar en la carpeta del proyecto
 cd proyecto-final-python
+
+# 3. Ejecutar el script que desees (por ejemplo, el Ejercicio 1)
 python ej1.py
